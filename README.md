@@ -80,7 +80,7 @@
     </td>
     <td align="center">
       <a href="https://github.com/ArijitDutta96395/Kshitij-2025-bots">
-        <img src="https://github.com/ArijitDutta96395/Kshitij-2025-bots/blob/main/images/img3.png?raw=true" alt="Droid Blitz" width="350" style="border-radius: 10px; box-shadow: 0px 0px 10px gray;" />
+        <img src="https://github.com/ArijitDutta96395/Kshitij-2025-bots/blob/main/images/img3.png?raw=true" alt="Droid Blitz" width="100" style="border-radius: 10px; box-shadow: 0px 0px 10px gray;" />
       </a>
       <br/>
       <a href="https://github.com/ArijitDutta96395/Kshitij-2025-bots"><b>Droid Blitz</b></a>
