@@ -64,11 +64,7 @@
 [![trophy](https://github-profile-trophy.vercel.app/?username=ArijitDutta96395&theme=radical&no-frame=true&row=1)](https://github.com/ryo-ma/github-profile-trophy)
 
 ## ✨ Featured Projects
-
 ---
-
-## 🚀 Featured Projects
-
 <table>
   <tr>
     <td align="center">
