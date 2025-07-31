@@ -14,14 +14,24 @@
 ![C++](https://img.shields.io/badge/C++-00599C?style=flat&logo=c%2B%2B&logoColor=white)
 ![Python](https://img.shields.io/badge/Python-3776AB?style=flat&logo=python&logoColor=white)
 ![Verilog](https://img.shields.io/badge/Verilog-FF6600?style=flat)
+
 ![FastAPI](https://img.shields.io/badge/FastAPI-005571?style=flat&logo=fastapi)
+![Flask](https://img.shields.io/badge/Flask-000000?style=flat&logo=flask&logoColor=white)
 ![React](https://img.shields.io/badge/React-20232A?style=flat&logo=react)
 ![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=flat&logo=mysql&logoColor=white)
 ![MongoDB](https://img.shields.io/badge/MongoDB-47A248?style=flat&logo=mongodb&logoColor=white)
+
 ![AWS](https://img.shields.io/badge/AWS-232F3E?style=flat&logo=amazon-aws&logoColor=white)
+![Google Cloud](https://img.shields.io/badge/Google%20Cloud-4285F4?style=flat&logo=google-cloud&logoColor=white)
+![Microsoft Azure](https://img.shields.io/badge/Azure-0078D4?style=flat&logo=microsoft-azure&logoColor=white)
+![IBM Cloud](https://img.shields.io/badge/IBM%20Cloud-1F70C1?style=flat&logo=ibmcloud&logoColor=white)
+
 ![Git](https://img.shields.io/badge/Git-F05032?style=flat&logo=git&logoColor=white)
 ![GitHub](https://img.shields.io/badge/GitHub-181717?style=flat&logo=github&logoColor=white)
 ![Windows Terminal](https://img.shields.io/badge/Windows%20Terminal-4D4D4D?style=flat&logo=windows-terminal&logoColor=white)
+![Ubuntu](https://img.shields.io/badge/Ubuntu-E95420?style=flat&logo=ubuntu&logoColor=white)
+![Linux](https://img.shields.io/badge/Linux-FCC624?style=flat&logo=linux&logoColor=black)
+
 ![NumPy](https://img.shields.io/badge/NumPy-013243?style=flat&logo=numpy&logoColor=white)
 ![Pandas](https://img.shields.io/badge/Pandas-150458?style=flat&logo=pandas&logoColor=white)
 ![Matplotlib](https://img.shields.io/badge/Matplotlib-11557C?style=flat)
@@ -31,6 +41,15 @@
 
 ![Arduino](https://img.shields.io/badge/Arduino-00979D?style=flat&logo=arduino&logoColor=white)
 ![Raspberry Pi](https://img.shields.io/badge/Raspberry%20Pi-C51A4A?style=flat&logo=raspberry-pi&logoColor=white)
+![RISC-V](https://img.shields.io/badge/RISC--V-002654?style=flat&logo=riscv&logoColor=white)
+
+![MATLAB](https://img.shields.io/badge/MATLAB-0076A8?style=flat&logo=MathWorks&logoColor=white)
+![Ansys](https://img.shields.io/badge/ANSYS-FFB71B?style=flat)
+![Proteus](https://img.shields.io/badge/Proteus-004080?style=flat)
+![PSpice](https://img.shields.io/badge/PSpice-8A1538?style=flat)
+![Tanner EDA](https://img.shields.io/badge/Tanner%20EDA-007ACC?style=flat)
+![Eagle PCB](https://img.shields.io/badge/Eagle%20PCB-F27B21?style=flat)
+
 
 
 ---
