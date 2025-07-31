@@ -69,8 +69,20 @@
 
 ## 🚀 Featured Projects
 
-| Project | Description | Preview |
-|--------|-------------|---------|
-| **Sand Rover** | Rugged Load Transporter for agriculture, disaster zones, and construction sites | ![Sand Rover](https://github.com/yourusername/yourrepo/assets/yourimage.jpg) |
-| **Droid Blitz** | Amphibious Robot for land and water block placement & package transfer | ![Droid Blitz](<img src="https://github.com/ArijitDutta96395/Kshitij-2025-bots/blob/main/images/img2.png?raw=true" alt="Resume Screening App Demo" width="700" style="border-radius: 10px; box-shadow: 0px 0px 10px gray;" />) |
-| **Netflix Clone** | Full-stack React-based streaming platform | ![Netflix](https://github.com/yourusername/netflix-clone/assets/netflix-thumbnail.jpg) |
+<table>
+  <tr>
+    <td align="center">
+      <a href="https://github.com/yourusername/sandrover">
+        <img src="https://github.com/ArijitDutta96395/Kshitij-2025-bots/blob/main/images/img2.png?raw=true" alt="Resume Screening App Demo" width="700" style="border-radius: 10px; box-shadow: 0px 0px 10px gray;" />
+        <sub><b>Sand Rover</b></sub>
+      </a>
+    </td>
+    <td align="center">
+      <a href="https://github.com/yourusername/droidblitz">
+        <img src="https://github.com/ArijitDutta96395/Kshitij-2025-bots/blob/main/images/img3.png?raw=true" alt="Resume Screening App Demo" width="700" style="border-radius: 10px; box-shadow: 0px 0px 10px gray;" />
+        <sub><b>Droid Blitz</b></sub>
+      </a>
+    </td>
+  </tr>
+</table>
+
