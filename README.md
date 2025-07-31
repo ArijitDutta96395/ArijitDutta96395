@@ -73,16 +73,17 @@
   <tr>
     <td align="center">
       <a href="https://github.com/yourusername/sandrover">
-        <img src="https://github.com/ArijitDutta96395/Kshitij-2025-bots/blob/main/images/img2.png?raw=true" alt="Resume Screening App Demo" width="700" style="border-radius: 10px; box-shadow: 0px 0px 10px gray;" />
+        <img src="https://github.com/ArijitDutta96395/Kshitij-2025-bots/blob/main/images/img2.png?raw=true" alt="Sand Rover" width="350" style="border-radius: 10px; box-shadow: 0px 0px 10px gray;" />
         <sub><b>Sand Rover</b></sub>
       </a>
     </td>
     <td align="center">
       <a href="https://github.com/yourusername/droidblitz">
-        <img src="https://github.com/ArijitDutta96395/Kshitij-2025-bots/blob/main/images/img3.png?raw=true" alt="Resume Screening App Demo" width="700" style="border-radius: 10px; box-shadow: 0px 0px 10px gray;" />
+        <img src="https://github.com/ArijitDutta96395/Kshitij-2025-bots/blob/main/images/img3.png?raw=true" alt="Droid Blitz" width="350" style="border-radius: 10px; box-shadow: 0px 0px 10px gray;" />
         <sub><b>Droid Blitz</b></sub>
       </a>
     </td>
   </tr>
 </table>
+
 
