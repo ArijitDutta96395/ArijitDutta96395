@@ -1,28 +1,10 @@
-## Hi there 👋
-
-<!--
-**ArijitDutta96395/ArijitDutta96395** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
-
 # 👋 Hi, I'm Arijit Dutta
 
 🌱 I’m currently working on IoT, VLSI, and Embedded Systems  
 💻 Building real-world projects like Resume Screening App, Water Monitoring System, RISC-V Processor  
 🧠 Learning SystemVerilog, UVM, and Machine Learning  
-📫 Reach me at: [your-email@example.com]  
+📫 Reach me at: [arijitdutta96395@gmail.com]  
 🔗 LinkedIn: [linkedin.com/in/arijitduttaa1](https://www.linkedin.com/in/arijitduttaa1)  
-🌐 Portfolio: [your-portfolio-link]
 
 ---
 
@@ -52,7 +34,7 @@ Here are some ideas to get you started:
 A full-stack web application that analyzes uploaded resumes and recommends relevant courses based on skills extracted using NLP and Machine Learning.
 
 <p align="center">
-  <img src="https://github.com/ArijitDutta96395/Kshitij-2025-bots/blob/main/images/img1.png?raw=true" alt="Resume Screening App Demo" width="700" style="border-radius: 10px; box-shadow: 0px 0px 10px gray;" />
+  <img src="https://via.placeholder.com/700x350.png?text=Droid+Blitz+Project+Image" alt="Droid Blitz" width="700" style="border-radius: 10px; box-shadow: 0px 0px 10px gray;" />
 </p>
 
 **🔧 Tech Stack**: FastAPI, React.js, scikit-learn, Tailwind CSS, SQLAlchemy  
@@ -71,7 +53,7 @@ A full-stack web application that analyzes uploaded resumes and recommends relev
 A compact, semi-autonomous robot tailored for difficult terrain. It uses high-torque motors, Bluetooth control, and a durable frame, making it ideal for agriculture, disaster zones, and construction sites.
 
 <p align="center">
-  <img src="https://via.placeholder.com/700x350.png?text=Sand+Rover+Project+Image" alt="Sand Rover" width="700" style="border-radius: 10px; box-shadow: 0px 0px 10px gray;" />
+  <img src="https://github.com/ArijitDutta96395/Kshitij-2025-bots/blob/main/images/img2.png?raw=true" alt="Resume Screening App Demo" width="700" style="border-radius: 10px; box-shadow: 0px 0px 10px gray;" />
 </p>
 
 **🛠️ Highlights**:
@@ -89,7 +71,7 @@ A compact, semi-autonomous robot tailored for difficult terrain. It uses high-to
 Designed for the "Droid Blitz" event, this robot is engineered for seamless navigation across both land and water. Capable of performing multi-terrain tasks like block placement and package transfer, it is a testament to robotics versatility.
 
 <p align="center">
-  <img src="https://via.placeholder.com/700x350.png?text=Droid+Blitz+Project+Image" alt="Droid Blitz" width="700" style="border-radius: 10px; box-shadow: 0px 0px 10px gray;" />
+  <img src="https://github.com/ArijitDutta96395/Kshitij-2025-bots/blob/main/images/img3.png?raw=true" alt="Resume Screening App Demo" width="700" style="border-radius: 10px; box-shadow: 0px 0px 10px gray;" />
 </p>
 
 **🌊 Capabilities**:
