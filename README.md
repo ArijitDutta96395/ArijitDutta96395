@@ -67,61 +67,10 @@
 
 ---
 
-### 📄 Resume Screening App (FastAPI + React)
+## 🚀 Featured Projects
 
-A full-stack web application that analyzes uploaded resumes and recommends relevant courses based on skills extracted using NLP and Machine Learning.
-
-<p align="center">
-  <img src="https://via.placeholder.com/700x350.png?text=Droid+Blitz+Project+Image" alt="Droid Blitz" width="700" style="border-radius: 10px; box-shadow: 0px 0px 10px gray;" />
-</p>
-
-**🔧 Tech Stack**: FastAPI, React.js, scikit-learn, Tailwind CSS, SQLAlchemy  
-**📌 Features**:
-- Upload resumes (PDF/Docx)
-- Extract and classify skills using ML
-- Recommend relevant career paths and courses
-- Admin panel to view screening history
-
-**🔗 Repo**: [View on GitHub](https://github.com/ArijitDutta96395/resume-screening-app)
-
----
-
-### 🚜 Sand Rover – Rugged Load Transporter for Uneven Terrain
-
-A compact, semi-autonomous robot tailored for difficult terrain. It uses high-torque motors, Bluetooth control, and a durable frame, making it ideal for agriculture, disaster zones, and construction sites.
-
-<p align="center">
-  <img src="https://github.com/ArijitDutta96395/Kshitij-2025-bots/blob/main/images/img2.png?raw=true" alt="Resume Screening App Demo" width="700" style="border-radius: 10px; box-shadow: 0px 0px 10px gray;" />
-</p>
-
-**🛠️ Highlights**:
-- High-torque motor system  
-- Bluetooth control via Android  
-- Compact and rugged chassis  
-- Shock-absorbing suspension
-
-**🔗 Repo**: [Link to Sand Rover GitHub Repo](#)
-
----
-
-### 🤖 Droid Blitz – Amphibious Robot for Land & Water Operations
-
-Designed for the "Droid Blitz" event, this robot is engineered for seamless navigation across both land and water. Capable of performing multi-terrain tasks like block placement and package transfer, it is a testament to robotics versatility.
-
-<p align="center">
-  <img src="https://github.com/ArijitDutta96395/Kshitij-2025-bots/blob/main/images/img3.png?raw=true" alt="Resume Screening App Demo" width="700" style="border-radius: 10px; box-shadow: 0px 0px 10px gray;" />
-</p>
-
-**🌊 Capabilities**:
-- Amphibious drive system (land + water)  
-- Multi-functional robotic arm  
-- Wireless controller integration  
-- Balanced hull for water stability
-
-**🔗 Repo**: [Link to Droid Blitz GitHub Repo](#)
-
----
-
-
-
-
+| Project | Description | Preview |
+|--------|-------------|---------|
+| **Sand Rover** | Rugged Load Transporter for agriculture, disaster zones, and construction sites | ![Sand Rover](https://github.com/yourusername/yourrepo/assets/yourimage.jpg) |
+| **Droid Blitz** | Amphibious Robot for land and water block placement & package transfer | ![Droid Blitz](<img src="https://github.com/ArijitDutta96395/Kshitij-2025-bots/blob/main/images/img2.png?raw=true" alt="Resume Screening App Demo" width="700" style="border-radius: 10px; box-shadow: 0px 0px 10px gray;" />) |
+| **Netflix Clone** | Full-stack React-based streaming platform | ![Netflix](https://github.com/yourusername/netflix-clone/assets/netflix-thumbnail.jpg) |
