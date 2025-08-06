@@ -52,12 +52,6 @@
 ![Eagle PCB](https://img.shields.io/badge/Eagle%20PCB-F27B21?style=flat)
 
 
-
----
-
-## 📊 GitHub Stats
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=ArijitDutta96395&show_icons=true&theme=radical)
-
 ---
 
 ## 🏆 GitHub Trophies
