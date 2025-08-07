@@ -54,6 +54,12 @@
 
 ---
 
+## 📊 GitHub Stats
+
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=ArijitDutta96395&layout=compact&langs_count=6&theme=default)
+
+---
+
 ## 🏆 GitHub Trophies
 [![trophy](https://github-profile-trophy.vercel.app/?username=ArijitDutta96395&theme=radical&no-frame=true&row=1)](https://github.com/ryo-ma/github-profile-trophy)
 
