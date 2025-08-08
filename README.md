@@ -115,11 +115,10 @@
     <img
       src="https://raw.githubusercontent.com/ArijitDutta96395/MATLAB_PROJECT/master/pic4.png"
       alt="MATLAB ECG Output"
-      width="200"
+      width="100"
       style="border-radius: 10px; box-shadow: 0px 0px 10px gray;"
     />
   </a>
-  <br/><br/><br/>
   <a href="https://github.com/ArijitDutta96395/MATLAB_PROJECT"><b>MATLAB FIR BANDPASS FILTER</b></a>
 </td>
 
