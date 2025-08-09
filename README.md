@@ -84,7 +84,7 @@
   <a href="https://github.com/ArijitDutta96395/Resume-Screening-App">
     <img src="https://github.com/ArijitDutta96395/Resume-Screening-App/blob/main/pic2.png?raw=true" alt="Resume Upload" width="200" style="border-radius: 10px; box-shadow: 0px 0px 10px gray;" />
   </a>
-  <br/><br/><br/> <!-- Adds vertical spacing -->
+  <br/><br/> <!-- Adds vertical spacing -->
   <a href="https://github.com/ArijitDutta96395/Resume-Screening-App"><b>Resume Screening App</b></a>
 </td>
     <td align="center">
@@ -120,7 +120,7 @@
     />
   </a>
   <br>
-  <a href="https://github.com/ArijitDutta96395/MATLAB_PROJECT"><b>MATLAB FIR BANDPASS FILTER</b></a>
+  <a href="https://github.com/ArijitDutta96395/MATLAB_PROJECT"><b>MATLAB FIR Bandpass Filter</b></a>
 </td>
 
   </tr>
