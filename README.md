@@ -93,7 +93,7 @@
   </a>
   <br/>
   <a href="https://github.com/ArijitDutta96395/IoT-Based-ECG-Monitoring-with-AD8232-ECG-Sensor-ESP32">
-    <b>IoT‑Based ECG Monitoring Project</b>
+    <b>IoT‑Based ECG Monitoring</b>
   </a>
 </td>
 
