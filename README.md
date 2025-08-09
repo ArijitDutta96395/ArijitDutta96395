@@ -113,7 +113,7 @@
 <td align="center">
   <a href="https://github.com/ArijitDutta96395/MATLAB_PROJECT">
     <img
-      src="https://raw.githubusercontent.com/ArijitDutta96395/MATLAB_PROJECT/master/pic4.png"
+      src="https://raw.githubusercontent.com/ArijitDutta96395/MATLAB_PROJECT/master/pic1.png"
       alt="MATLAB ECG Output"
       width="100"
       style="border-radius: 10px; box-shadow: 0px 0px 10px gray;"
