@@ -106,7 +106,7 @@
       style="border-radius: 10px; box-shadow: 0px 0px 10px gray;"
     />
   </a>
-  <br/><br/><br/>
+  <br/><br/>
   <a href="https://github.com/ArijitDutta96395/Edunet-Project-1"><b>CNN Based Image Classification</b></a>
 </td>
 
@@ -119,7 +119,7 @@
       style="border-radius: 10px; box-shadow: 0px 0px 10px gray;"
     />
   </a>
-  <br>
+  <br><br>
   <a href="https://github.com/ArijitDutta96395/MATLAB_PROJECT"><b>MATLAB FIR Bandpass Filter</b></a>
 </td>
 
