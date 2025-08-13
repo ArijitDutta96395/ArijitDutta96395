@@ -1,8 +1,8 @@
 # 👋 Hi, I'm Arijit Dutta
 
 🌱 I’m currently working on AI-ML, Software Development, Cloud Computing, IoT, VLSI, and Embedded Systems  
-💻 Building real-world projects like Resume Screening App, Water Monitoring System, RISC-V ML Accelerator  
-🧠 Curently Learning DevOps, OS, DSA, SystemVerilog, UVM, and Machine Learning  
+💻 Currently Working on some real-world projects: Water Monitoring System, RISC-V ML Accelerator  
+🧠 Learning DevOps, OS, DSA, SystemVerilog, UVM, and Machine Learning  
 📫 Reach me at: arijitdutta96395@gmail.com
 🔗 LinkedIn: [linkedin.com/in/arijitduttaa1](https://www.linkedin.com/in/arijitduttaa1)  
 
