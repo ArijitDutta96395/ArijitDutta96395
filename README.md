@@ -76,15 +76,6 @@
       <a href="https://github.com/ArijitDutta96395/Kshitij-2025-bots"><b>Sand Rover</b></a>
     </td>
     <td align="center" style="padding: 15px;">
-      <a href="https://github.com/ArijitDutta96395/Kshitij-2025-bots">
-        <img src="https://github.com/ArijitDutta96395/Kshitij-2025-bots/blob/main/images/img3.png?raw=true" 
-             alt="Droid Blitz" width="200" 
-             style="border-radius: 10px; box-shadow: 0px 0px 10px gray;" />
-      </a>
-      <br/><br/>
-      <a href="https://github.com/ArijitDutta96395/Kshitij-2025-bots"><b>Droid Blitz</b></a>
-    </td>
-    <td align="center" style="padding: 15px;">
       <a href="https://github.com/ArijitDutta96395/Resume-Screening-App">
         <img src="https://github.com/ArijitDutta96395/Resume-Screening-App/blob/main/pic2.png?raw=true" 
              alt="Resume Upload" width="200" 
