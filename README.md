@@ -91,7 +91,6 @@
   <a href="https://github.com/ArijitDutta96395/IoT-Based-ECG-Monitoring-with-AD8232-ECG-Sensor-ESP32">
     <img src="https://github.com/ArijitDutta96395/IoT-Based-ECG-Monitoring-with-AD8232-ECG-Sensor-ESP32/blob/main/ecgbreadboard.jpg?raw=true" alt="ECG Breadboard Setup" width="200" style="border-radius: 10px; box-shadow: 0px 0px 10px gray;" />
   </a>
-  <br/>
   <a href="https://github.com/ArijitDutta96395/IoT-Based-ECG-Monitoring-with-AD8232-ECG-Sensor-ESP32">
     <b>IoT‑Based ECG Monitoring</b>
   </a>
@@ -131,7 +130,7 @@
       style="border-radius: 10px; box-shadow: 0px 0px 10px gray;"
     />
   </a>
-  <br><br>
+  <br>
   <a href="https://github.com/ArijitDutta96395/Core_Electronics_MINI_Project"><b>Audio Amplifier Project</b></a>
 </td>
 
