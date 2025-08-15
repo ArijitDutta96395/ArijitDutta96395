@@ -131,8 +131,10 @@
       style="border-radius: 10px; box-shadow: 0px 0px 10px gray;"
     />
   </a>
-  <br>
-  <a href="https://github.com/ArijitDutta96395/Core_Electronics_MINI_Project"><b>Core Electronics Project</b></a>
+  <br><br>
+  <a href="https://github.com/ArijitDutta96395/Core_Electronics_MINI_Project">
+    <span style="font-size: 12px;"><b>Audio Amplifier Project</b></span>
+  </a>
 </td>
 
   </tr>
