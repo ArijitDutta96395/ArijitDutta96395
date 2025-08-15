@@ -132,10 +132,9 @@
     />
   </a>
   <br><br>
-  <a href="https://github.com/ArijitDutta96395/Core_Electronics_MINI_Project">
-    <span style="font-size: 12px;"><b>Audio Amplifier Project</b></span>
-  </a>
+  <a href="https://github.com/ArijitDutta96395/Core_Electronics_MINI_Project"><b>Audio Amplifier Project</b></a>
 </td>
+
 
   </tr>
 </table>
