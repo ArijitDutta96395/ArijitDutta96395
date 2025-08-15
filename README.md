@@ -68,7 +68,7 @@
   <tr>
     <td align="center" style="padding: 15px;">
       <a href="https://github.com/ArijitDutta96395/Kshitij-2025-bots">
-        <img src="https://github.com/ArijitDutta96395/Kshitij-2025-bots/blob/main/images/img2.png?raw=true" 
+        <img src="https://github.com/ArijitDutta96395/Kshitij-2025-bots/blob/main/images/img4.png?raw=true" 
              alt="Sand Rover" width="200" 
              style="border-radius: 10px; box-shadow: 0px 0px 10px gray;" />
       </a>
