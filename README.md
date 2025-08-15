@@ -66,75 +66,70 @@
 ## ✨ Featured Projects
 <table>
   <tr>
-    <td align="center">
+    <td align="center" style="padding: 15px;">
       <a href="https://github.com/ArijitDutta96395/Kshitij-2025-bots">
-        <img src="https://github.com/ArijitDutta96395/Kshitij-2025-bots/blob/main/images/img2.png?raw=true" alt="Sand Rover" width="350" style="border-radius: 10px; box-shadow: 0px 0px 10px gray;" />
+        <img src="https://github.com/ArijitDutta96395/Kshitij-2025-bots/blob/main/images/img2.png?raw=true" 
+             alt="Sand Rover" width="200" 
+             style="border-radius: 10px; box-shadow: 0px 0px 10px gray;" />
       </a>
-      <br/>
+      <br/><br/>
       <a href="https://github.com/ArijitDutta96395/Kshitij-2025-bots"><b>Sand Rover</b></a>
     </td>
-    <td align="center">
+    <td align="center" style="padding: 15px;">
       <a href="https://github.com/ArijitDutta96395/Kshitij-2025-bots">
-        <img src="https://github.com/ArijitDutta96395/Kshitij-2025-bots/blob/main/images/img3.png?raw=true" alt="Droid Blitz" width="200" style="border-radius: 10px; box-shadow: 0px 0px 10px gray;" />
+        <img src="https://github.com/ArijitDutta96395/Kshitij-2025-bots/blob/main/images/img3.png?raw=true" 
+             alt="Droid Blitz" width="200" 
+             style="border-radius: 10px; box-shadow: 0px 0px 10px gray;" />
       </a>
-      <br/>
+      <br/><br/>
       <a href="https://github.com/ArijitDutta96395/Kshitij-2025-bots"><b>Droid Blitz</b></a>
     </td>
-<td align="center">
-  <a href="https://github.com/ArijitDutta96395/Resume-Screening-App">
-    <img src="https://github.com/ArijitDutta96395/Resume-Screening-App/blob/main/pic2.png?raw=true" alt="Resume Upload" width="150" style="border-radius: 10px; box-shadow: 0px 0px 10px gray;" />
-  </a>
-  <br/> <!-- Adds vertical spacing -->
-  <a href="https://github.com/ArijitDutta96395/Resume-Screening-App"><b>ML based Resume Screening App</b></a>
-</td>
-    <td align="center">
-  <a href="https://github.com/ArijitDutta96395/IoT-Based-ECG-Monitoring-with-AD8232-ECG-Sensor-ESP32">
-    <img src="https://github.com/ArijitDutta96395/IoT-Based-ECG-Monitoring-with-AD8232-ECG-Sensor-ESP32/blob/main/ecgbreadboard.jpg?raw=true" alt="ECG Breadboard Setup" width="200" style="border-radius: 10px; box-shadow: 0px 0px 10px gray;" />
-  </a>
-  <a href="https://github.com/ArijitDutta96395/IoT-Based-ECG-Monitoring-with-AD8232-ECG-Sensor-ESP32">
-    <b>IoT‑Based ECG Monitoring</b>
-  </a>
-</td>
-
-<td align="center">
-  <a href="https://github.com/ArijitDutta96395/Edunet-Project-1">
-    <img
-      src="https://github.com/ArijitDutta96395/Edunet-Project-1/blob/main/pic4.png?raw=true"
-      alt="Edunet Project Output"
-      width="200"
-      style="border-radius: 10px; box-shadow: 0px 0px 10px gray;"
-    />
-  </a>
-  <br/><br/>
-  <a href="https://github.com/ArijitDutta96395/Edunet-Project-1"><b>CNN Based Image Classification</b></a>
-</td>
-
-<td align="center">
-  <a href="https://github.com/ArijitDutta96395/MATLAB_PROJECT">
-    <img
-      src="https://raw.githubusercontent.com/ArijitDutta96395/MATLAB_PROJECT/master/pic1.png"
-      alt="MATLAB ECG Output"
-      width="100"
-      style="border-radius: 10px; box-shadow: 0px 0px 10px gray;"
-    />
-  </a>
-  <br><br>
-  <a href="https://github.com/ArijitDutta96395/MATLAB_PROJECT"><b>MATLAB FIR Bandpass Filter</b></a>
-</td>
-<td align="center">
-  <a href="https://github.com/ArijitDutta96395/Core_Electronics_MINI_Project">
-    <img
-      src="https://raw.githubusercontent.com/ArijitDutta96395/Core_Electronics_MINI_Project/main/pic.jpeg"
-      alt="Audio Amplifier Circuit"
-      width="100"
-      style="border-radius: 10px; box-shadow: 0px 0px 10px gray;"
-    />
-  </a>
-  <br>
-  <a href="https://github.com/ArijitDutta96395/Core_Electronics_MINI_Project"><b>Audio Amplifier Project</b></a>
-</td>
-
-
+    <td align="center" style="padding: 15px;">
+      <a href="https://github.com/ArijitDutta96395/Resume-Screening-App">
+        <img src="https://github.com/ArijitDutta96395/Resume-Screening-App/blob/main/pic2.png?raw=true" 
+             alt="Resume Upload" width="200" 
+             style="border-radius: 10px; box-shadow: 0px 0px 10px gray;" />
+      </a>
+      <br/><br/>
+      <a href="https://github.com/ArijitDutta96395/Resume-Screening-App"><b>ML Based Resume Screening App</b></a>
+    </td>
+    <td align="center" style="padding: 15px;">
+      <a href="https://github.com/ArijitDutta96395/IoT-Based-ECG-Monitoring-with-AD8232-ECG-Sensor-ESP32">
+        <img src="https://github.com/ArijitDutta96395/IoT-Based-ECG-Monitoring-with-AD8232-ECG-Sensor-ESP32/blob/main/ecgbreadboard.jpg?raw=true" 
+             alt="ECG Breadboard Setup" width="200" 
+             style="border-radius: 10px; box-shadow: 0px 0px 10px gray;" />
+      </a>
+      <br/><br/>
+      <a href="https://github.com/ArijitDutta96395/IoT-Based-ECG-Monitoring-with-AD8232-ECG-Sensor-ESP32"><b>IoT-Based ECG Monitoring</b></a>
+    </td>
+    <td align="center" style="padding: 15px;">
+      <a href="https://github.com/ArijitDutta96395/Edunet-Project-1">
+        <img src="https://github.com/ArijitDutta96395/Edunet-Project-1/blob/main/pic4.png?raw=true" 
+             alt="Edunet Project Output" width="200" 
+             style="border-radius: 10px; box-shadow: 0px 0px 10px gray;" />
+      </a>
+      <br/><br/>
+      <a href="https://github.com/ArijitDutta96395/Edunet-Project-1"><b>CNN Based Image Classification</b></a>
+    </td>
+    <td align="center" style="padding: 15px;">
+      <a href="https://github.com/ArijitDutta96395/MATLAB_PROJECT">
+        <img src="https://raw.githubusercontent.com/ArijitDutta96395/MATLAB_PROJECT/master/pic1.png" 
+             alt="MATLAB ECG Output" width="200" 
+             style="border-radius: 10px; box-shadow: 0px 0px 10px gray;" />
+      </a>
+      <br/><br/>
+      <a href="https://github.com/ArijitDutta96395/MATLAB_PROJECT"><b>MATLAB FIR Bandpass Filter</b></a>
+    </td>
+    <td align="center" style="padding: 15px;">
+      <a href="https://github.com/ArijitDutta96395/Core_Electronics_MINI_Project">
+        <img src="https://raw.githubusercontent.com/ArijitDutta96395/Core_Electronics_MINI_Project/main/pic.jpeg" 
+             alt="Audio Amplifier Circuit" width="200" 
+             style="border-radius: 10px; box-shadow: 0px 0px 10px gray;" />
+      </a>
+      <br/><br/>
+      <a href="https://github.com/ArijitDutta96395/Core_Electronics_MINI_Project"><b>Audio Amplifier Project</b></a>
+    </td>
   </tr>
 </table>
+
 
