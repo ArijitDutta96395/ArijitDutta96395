@@ -90,7 +90,7 @@
              alt="ECG Breadboard Setup" width="200" 
              style="border-radius: 10px; box-shadow: 0px 0px 10px gray;" />
       </a>
-      <br/><br/>
+      <br/>
       <a href="https://github.com/ArijitDutta96395/IoT-Based-ECG-Monitoring-with-AD8232-ECG-Sensor-ESP32"><b>IoT-Based ECG Monitoring</b></a>
     </td>
     <td align="center" style="padding: 15px;">
@@ -108,7 +108,7 @@
              alt="MATLAB ECG Output" width="200" 
              style="border-radius: 10px; box-shadow: 0px 0px 10px gray;" />
       </a>
-      <br/><br/>
+      <br/>
       <a href="https://github.com/ArijitDutta96395/MATLAB_PROJECT"><b>MATLAB FIR Bandpass Filter</b></a>
     </td>
     <td align="center" style="padding: 15px;">
