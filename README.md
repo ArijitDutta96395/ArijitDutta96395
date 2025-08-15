@@ -113,7 +113,7 @@
     </td>
     <td align="center" style="padding: 15px;">
       <a href="https://github.com/ArijitDutta96395/Core_Electronics_MINI_Project">
-        <img src="https://raw.githubusercontent.com/ArijitDutta96395/Core_Electronics_MINI_Project/main/pic.jpeg" 
+        <img src="https://raw.githubusercontent.com/ArijitDutta96395/Core_Electronics_MINI_Project/main/pic.png" 
              alt="Audio Amplifier Circuit" width="200" 
              style="border-radius: 10px; box-shadow: 0px 0px 10px gray;" />
       </a>
