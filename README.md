@@ -122,6 +122,18 @@
   <br><br>
   <a href="https://github.com/ArijitDutta96395/MATLAB_PROJECT"><b>MATLAB FIR Bandpass Filter</b></a>
 </td>
+<td align="center">
+  <a href="https://github.com/ArijitDutta96395/Core_Electronics_MINI_Project">
+    <img
+      src="https://raw.githubusercontent.com/ArijitDutta96395/Core_Electronics_MINI_Project/main/pic.jpeg"
+      alt="Audio Amplifier Circuit"
+      width="100"
+      style="border-radius: 10px; box-shadow: 0px 0px 10px gray;"
+    />
+  </a>
+  <br><br>
+  <a href="https://github.com/ArijitDutta96395/Core_Electronics_MINI_Project"><b>Core Electronics Project</b></a>
+</td>
 
   </tr>
 </table>
