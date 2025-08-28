@@ -49,6 +49,10 @@
 
 ![Arduino](https://img.shields.io/badge/Arduino-00979D?style=flat&logo=arduino&logoColor=white)
 ![Raspberry Pi](https://img.shields.io/badge/Raspberry%20Pi-C51A4A?style=flat&logo=raspberry-pi&logoColor=white)
+![STM32](https://img.shields.io/badge/STM32-1C4F91?style=flat&logo=arm&logoColor=white)
+![ARM](https://img.shields.io/badge/ARM-0078D7?style=flat&logo=arm&logoColor=white)
+![ESP32](https://img.shields.io/badge/ESP32-007ACC?style=flat&logo=espressif&logoColor=white)
+![BeagleBone](https://img.shields.io/badge/BeagleBone-000000?style=flat&logo=beaglebone&logoColor=white)
 ![RISC-V](https://img.shields.io/badge/RISC--V-002654?style=flat&logo=riscv&logoColor=white)
 
 ![MATLAB](https://img.shields.io/badge/MATLAB-0076A8?style=flat&logo=MathWorks&logoColor=white)
@@ -57,7 +61,14 @@
 ![PSpice](https://img.shields.io/badge/PSpice-8A1538?style=flat)
 ![Tanner EDA](https://img.shields.io/badge/Tanner%20EDA-007ACC?style=flat)
 ![Eagle PCB](https://img.shields.io/badge/Eagle%20PCB-F27B21?style=flat)
+![KiCad](https://img.shields.io/badge/KiCad-FCC624?style=flat)
+![Altium Designer](https://img.shields.io/badge/Altium-FF0000?style=flat)
 
+![MQTT](https://img.shields.io/badge/MQTT-FF6600?style=flat&logo=mqtt&logoColor=white)
+![ThingSpeak](https://img.shields.io/badge/ThingSpeak-0072C6?style=flat&logo=thingspeak&logoColor=white)
+![AWS IoT](https://img.shields.io/badge/AWS%20IoT-FF9900?style=flat&logo=amazon-aws&logoColor=white)
+![Azure IoT](https://img.shields.io/badge/Azure%20IoT-0078D7?style=flat&logo=microsoft-azure&logoColor=white)
+![Google Cloud IoT](https://img.shields.io/badge/Google%20Cloud%20IoT-4285F4?style=flat&logo=google&logoColor=white)
 
 ---
 
