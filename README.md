@@ -127,14 +127,14 @@
       <a href="https://github.com/ArijitDutta96395/Resume-Screening-App"><b>ML Based Resume Screening App</b></a>
     </td>
     <td align="center" style="padding: 15px;">
-      <a href="https://github.com/ArijitDutta96395/IoT-Based-ECG-Monitoring-with-AD8232-ECG-Sensor-ESP32">
-        <img src="https://github.com/ArijitDutta96395/IoT-Based-ECG-Monitoring-with-AD8232-ECG-Sensor-ESP32/blob/main/ecgbreadboard.jpg?raw=true" 
-             alt="ECG Breadboard Setup" width="200" 
-             style="border-radius: 10px; box-shadow: 0px 0px 10px gray;" />
+      <a href="https://github.com/ArijitDutta96395/MOVIE_FLIX">
+        <img src="https://github.com/ArijitDutta96395/MOVIE_FLIX/blob/main/pic.png?raw=true" 
+           alt="Movie Flix" width="200" 
+           style="border-radius: 10px; box-shadow: 0px 0px 10px gray;" />
       </a>
-      <br/>
-      <a href="https://github.com/ArijitDutta96395/IoT-Based-ECG-Monitoring-with-AD8232-ECG-Sensor-ESP32"><b>IoT-Based ECG Monitoring</b></a>
-    </td>
+  <br/><br/>
+  <a href="https://github.com/ArijitDutta96395/MOVIE_FLIX"><b>Movie Flix App</b></a>
+</td>
     <td align="center" style="padding: 15px;">
       <a href="https://github.com/ArijitDutta96395/Edunet-Project-1">
         <img src="https://github.com/ArijitDutta96395/Edunet-Project-1/blob/main/pic4.png?raw=true" 
