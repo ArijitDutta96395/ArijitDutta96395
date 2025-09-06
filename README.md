@@ -147,7 +147,7 @@
    <td align="center" style="padding: 15px;">
       <a href="https://github.com/ArijitDutta96395/Home_Automation">
         <img src="https://github.com/ArijitDutta96395/Home_Automation/blob/main/home_automation.png?raw=true" 
-           alt="Home Automation" width="200" 
+           alt="Home Automation" width="150" 
             style="border-radius: 10px; box-shadow: 0px 0px 10px gray;" />
       </a>
   <br/><br/>
