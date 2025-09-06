@@ -151,7 +151,7 @@
             style="border-radius: 10px; box-shadow: 0px 0px 10px gray;" />
       </a>
   <br/>
-  <a href="https://github.com/ArijitDutta96395/Home_Automation"><b>Custom Made Home Automation Device</b></a>
+  <a href="https://github.com/ArijitDutta96395/Home_Automation"><b>Home Automation Device</b></a>
 </td>
     <td align="center" style="padding: 15px;">
       <a href="https://github.com/ArijitDutta96395/Core_Electronics_MINI_Project">
