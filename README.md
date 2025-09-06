@@ -120,7 +120,7 @@
     <td align="center" style="padding: 15px;">
       <a href="https://github.com/ArijitDutta96395/Resume-Screening-App">
         <img src="https://github.com/ArijitDutta96395/Resume-Screening-App/blob/main/pic2.png?raw=true" 
-             alt="Resume Upload" width="200" 
+             alt="Resume Upload" width="250" 
              style="border-radius: 10px; box-shadow: 0px 0px 10px gray;" />
       </a>
       <br/><br/>
