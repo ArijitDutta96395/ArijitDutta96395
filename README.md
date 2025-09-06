@@ -150,7 +150,7 @@
            alt="Home Automation" width="150" 
             style="border-radius: 10px; box-shadow: 0px 0px 10px gray;" />
       </a>
-  <br/><br/>
+  <br/>
   <a href="https://github.com/ArijitDutta96395/Home_Automation"><b>Home Automation App</b></a>
 </td>
     <td align="center" style="padding: 15px;">
