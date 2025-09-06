@@ -144,15 +144,15 @@
       <br/><br/>
       <a href="https://github.com/ArijitDutta96395/Edunet-Project-1"><b>CNN Based Image Classification</b></a>
     </td>
-    <td align="center" style="padding: 15px;">
-      <a href="https://github.com/ArijitDutta96395/MATLAB_PROJECT">
-        <img src="https://raw.githubusercontent.com/ArijitDutta96395/MATLAB_PROJECT/master/pic1.png" 
-             alt="MATLAB ECG Output" width="200" 
-             style="border-radius: 10px; box-shadow: 0px 0px 10px gray;" />
+   <td align="center" style="padding: 15px;">
+      <a href="https://github.com/ArijitDutta96395/Home_Automation">
+        <img src="https://github.com/ArijitDutta96395/Home_Automation/blob/main/home_automation.png?raw=true" 
+           alt="Home Automation" width="200" 
+            style="border-radius: 10px; box-shadow: 0px 0px 10px gray;" />
       </a>
-      <br/>
-      <a href="https://github.com/ArijitDutta96395/MATLAB_PROJECT"><b>MATLAB FIR Bandpass Filter</b></a>
-    </td>
+  <br/><br/>
+  <a href="https://github.com/ArijitDutta96395/Home_Automation"><b>Home Automation App</b></a>
+</td>
     <td align="center" style="padding: 15px;">
       <a href="https://github.com/ArijitDutta96395/Core_Electronics_MINI_Project">
         <img src="https://raw.githubusercontent.com/ArijitDutta96395/Core_Electronics_MINI_Project/main/pic.png" 
