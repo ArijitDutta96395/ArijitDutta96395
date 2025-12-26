@@ -100,7 +100,8 @@
 
 ## 📊 GitHub Stats
 
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=ArijitDutta96395&layout=compact&langs_count=6&theme=default)
+![Top Languages](https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api/top-langs/?username=ArijitDutta96395&layout=compact&langs_count=6&theme=default)
+
 
 ---
 
